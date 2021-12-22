@@ -3,10 +3,11 @@
 - 🌱 Estou me formando como Full Stack pela <a href="https://www.recodepro.org.br/" target="_blank">Recode Pro</a>
 - 💻 Atualmente sou estagiário de TI na <a href="https://www.citopharma.com.br/industrial/" target="_blank">Citopharma Industrial</a>
 - ⚛️🧪 Técnico em Química e 50% de bacharelado em Física concluído
+- 📲 Super amante de tecnologia e ciências
 - 🤔 Interessado em desenvolvimento web front e back, banco de dados, infra, e aberto a novos conhecimentos
 
 <div align="center">
-  <a href="https://github.com/vitor-msp">
+  <a href="https://github.com/vitor-msp"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-msp&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-msp&layout=compact&langs_count=6&theme=dark"/>
 </div>
