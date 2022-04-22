@@ -1,6 +1,6 @@
 ### Olá!! Sou o Vítor 👋
 
-- 🌱 Estou me formando como Full Stack pela <a href="https://www.recodepro.org.br/" target="_blank">Recode Pro</a>
+- 🌱 Formado como Full Stack pela <a href="https://www.recodepro.org.br/" target="_blank">Recode Pro</a>
 - 💻 Atualmente sou ~~estagiário~~ auxiliar de TI na <a href="https://www.citopharma.com.br/industrial/" target="_blank">Citopharma Industrial</a>
 - ⚛️🧪 Técnico em Química e 50% de bacharelado em Física concluído
 - 📲 Super amante de tecnologia e ciências
