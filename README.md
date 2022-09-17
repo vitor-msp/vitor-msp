@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/vitor-msp"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-msp&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-msp&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-msp&layout=compact&langs_count=10&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
