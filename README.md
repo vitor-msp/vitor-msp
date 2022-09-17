@@ -1,7 +1,6 @@
 ### Olá!! Sou o Vítor 👋
 
-- 🌱 Formado como Full Stack pela <a href="https://www.recodepro.org.br/" target="_blank">Recode Pro</a>
-- 💻 Atualmente sou ~~estagiário~~ auxiliar de TI na <a href="https://www.citopharma.com.br/industrial/" target="_blank">Citopharma Industrial</a>
+- 💻 Atualmente sou auxiliar de TI na <a href="https://www.citopharma.com.br/industrial/" target="_blank">Citopharma Industrial</a>
 - ⚛️🧪 Técnico em Química e 50% de bacharelado em Física concluído
 - 📲 Super amante de tecnologia e ciências
 - 🤔 Interessado em desenvolvimento web front e back, banco de dados, infra, e aberto a novos conhecimentos
@@ -12,13 +11,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-msp&layout=compact&langs_count=6&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="ReduxJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="ReduxJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Dot Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
