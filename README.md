@@ -1,7 +1,7 @@
 ### Olá!! Sou o Vítor 👋
 
-- 💻 Atualmente sou auxiliar de TI na <a href="https://www.citopharma.com.br/industrial/" target="_blank">Citopharma Industrial</a>
-- ⚛️🧪 Técnico em Química e 50% de bacharelado em Física concluído
+- 💻 Atualmente sou Desenvolvedor Jr na <a href="https://donuz.com.br/" target="_blank">Donuz</a>
+- ⚛️🧪 Técnico em Química e metade do bacharelado em Física cursado
 - 📲 Super amante de tecnologia e ciências
 - 🤔 Interessado em desenvolvimento web front e back, banco de dados, infra, e aberto a novos conhecimentos
 
