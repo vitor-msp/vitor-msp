@@ -1,8 +1,8 @@
-### Olá!! Sou o Vítor 👋
+### Hello!! I'm Vítor 👋
 
-- 👨‍💻 Atualmente sou Desenvolvedor na <a href="https://donuz.com.br/" target="_blank">Donuz</a> 🚀
-- ⚛️ Super amante de ciências e tecnologia 💻
-- 💡 Interessado em desenvolvimento web backend e frontend, banco de dados, infra, segurança da informação e aberto a novos conhecimentos 🌐
+- 👨‍💻 I am currently a Developer at <a href="https://donuz.com.br/" target="_blank">Donuz</a> 🚀
+- ⚛️ Super lover of science and technology 💻
+- 💡 Interested in backend and frontend web development, database, infra, information security and open to new knowledge 🌐
 
 <div align="center">
   <a href="https://github.com/vitor-msp"></a>
