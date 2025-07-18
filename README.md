@@ -1,6 +1,6 @@
 ### Hello!! I'm Vítor 👋
 
-- 👨‍💻 I am currently a Mid Level Developer at <a href="https://www.auvo.com/" target="_blank">Auvo</a> 🚀
+- 👨‍💻 I am currently a Mid Level .NET Developer at <a href="https://www.auvo.com/" target="_blank">Auvo</a> 🚀
 - ⚛️ Super lover of science and technology 💻
 - 💡 Interested in backend and frontend web development, database, infra, information security and open to new knowledge 🌐
 
